@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <RegisteredUser>
+    <FirstName>DudoVip</FirstName>
+    <LastName>Dudon</LastName>
+    <Type>Vipuser</Type>
+    <UserName>123123123</UserName>
+    <PassWord>123123123</PassWord>
+    <Email>info@pentest.co.il</Email>
+    <Address>Haifal</Address>
+    <PhoneNumber>123123123</PhoneNumber>
+  </RegisteredUser>
+  <RegisteredUser>
+    <FirstName>ShimEmplo</FirstName>
+    <LastName>EmploLastName</LastName>
+    <Type>Employee</Type>
+    <ID>1232123</ID>
+    <Email>6yonor@gmail.com</Email>
+    <Address>Shmo</Address>
+    <PhoneNumber>234234234</PhoneNumber>
+  </RegisteredUser>
+  <RegisteredUser>
+    <FirstName>Mano mana</FirstName>
+    <LastName>manager</LastName>
+    <Type>Manager</Type>
+    <Email>yonor@me.com</Email>
+    <Address>mahaifa</Address>
+    <PhoneNumber>544354345</PhoneNumber>
+  </RegisteredUser>
+</Users>
