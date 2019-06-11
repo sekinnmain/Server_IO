@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="controller\ServerListen.cs" />
     <Compile Include="controller\XmlParser.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Program_old.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -52,7 +54,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\Orders.xml" />
-    <Content Include="Data\Users.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
